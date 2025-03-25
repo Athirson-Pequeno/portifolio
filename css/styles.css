@@ -4,3 +4,8 @@ a {
   border-radius: 3px;
   padding: 5px;
 }
+
+.foto {
+  border-radius: 20px;
+  width: 300px;
+}
